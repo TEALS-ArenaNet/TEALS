@@ -7,4 +7,4 @@ See more about us:
 [Guild Wars 2](https://guildwars2.com)
 
 
-If you received a BristleBot kit from our TEALS 2018 booth, you can find the instructions for assembly [here](https://google.com)
+If you received a BristleBot kit from our TEALS 2018 booth, you might find [this video](https://www.youtube.com/watch?v=Q1zToREgV0c) useful for assembly instructions.
